@@ -18,7 +18,7 @@ Hi, I'm Miguel Longart, a passionate self-taught web developer and software engi
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
-- 💼 any freelance work? do reach, [email](mailto:abhishek.naidu@cred.club) :)
+- 💼 any freelance work? do reach, [email](mailto:mlongart86@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**  
