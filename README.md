@@ -1,4 +1,4 @@
-### hey there 
+<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Miguel Longart,</h3>
 <a href="https://www.instagram.com/miguellongart">
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
@@ -13,8 +13,7 @@
 
 <br />
 
-
-Hi, I'm Miguel Longart, a passionate self-taught web developer and software engineer. My passion for software lies in dreaming up ideas and bringing them to life with elegant interfaces. I care a lot about the experience, the architecture and the quality of the code of the things I build.
+ A passionate self-taught web developer and software engineer. My passion for software lies in dreaming up ideas and bringing them to life with elegant interfaces. I care a lot about the experience, the architecture and the quality of the code of the things I build.
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
