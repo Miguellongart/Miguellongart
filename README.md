@@ -1,33 +1,36 @@
-<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Miguel Longart,</h3>
-<a href="https://www.instagram.com/miguellongart">
-  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-<a href="https://twitter.com/miguellongart">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/miguel-longart-a88344b7">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+<h1 align="center">Hola 👋, soy Miguel Longart</h1>
+<h3 align="center">Un apasionado desarrollador web e ingeniero de sistemas autodidacta. Mi pasión por el software radica en soñar ideas y darles vida con interfaces elegantes. Me importa mucho la experiencia, la arquitectura y la calidad del código de las cosas que construyo. También soy un entusiasta y mantenedor del código abierto. Aprendí mucho de la comunidad de código abierto y me encanta cómo se produjo la colaboración y el intercambio de conocimientos a través del código abierto.</h3>
 
-![](https://visitor-badge.glitch.me/badge?page_id=Miguellongart.Miguellongart)
+<p align="left"> <a href="https://github. com/ryo-ma/github-profile-tropic"><img src="https://github-profile-tropico.vercel.app/?username=miguellongart" alt="miguellongart" /></a> </ p>
 
-<br />
+<p align="left"> <a href="https://twitter.com/miguellongart" target="blank"><img src="https://img.shields.io/twitter/follow/ miguellongart?logo=twitter&style=for-the-badge" alt="miguellongart" /></a> </p>
 
- A passionate self-taught web developer and software engineer. My passion for software lies in dreaming up ideas and bringing them to life with elegant interfaces. I care a lot about the experience, the architecture and the quality of the code of the things I build.
+- 🔭 Actualmente estoy trabajando en [Aega (Grupo Clarin)]((clarin.com , ole.com. ar))
 
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+- 🌱 Actualmente estoy aprendiendo **node js, reaccionar nativo**
 
-- 💼 any freelance work? do reach, [email](mailto:mlongart86@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
+- 👨‍💻 Todos mis proyectos están disponibles en [miguellongart.com](miguellongart.com)
 
-**languages and tools:**  
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/laravel/laravel.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
+- 📝 Escribo regularmente artículos variados de Tecnologia [miguellongart.com/ blog](miguellongart.com/blog)
+
+- 💬 Pregúntame sobre **react js, next js , laravel**
+
+- 📫 Cómo contactarme **longart86@gmail.com**
+
+<h3 align="left">Conéctate conmigo: </h3>
+<p align="left">
+<a href="https://twitter.com/miguellongart" target="blank"><img align="center" src="https://raw.githubusercontent .com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="miguellongart" height="30" width="40" /></a> <
+a href="https://linkedin.com/in/miguel longart" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme- generador/master/src/images/icons/Social/linked-in-alt.svg" alt="miguel longart" height="30" width="40" /></a>
+<a href="https:/ /fb.com/miguel ramos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/ icon/Social/facebook.svg" alt="miguel ramos" height="30" width="40" /></a>
+<a href="https://instagram.com/miguellongart" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/ instagram.svg" alt="miguellongart" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/miguellongart18" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="miguellongart18" altura ="30" ancho="40" /></a>
+</p>
+
+<h3 align="left">Idiomas y herramientas:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon /master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://codeigniter.com" objetivo ="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </ a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/ master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/ " target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" ancho="40" alto="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https: //www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https: //www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original -wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript " target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width= "40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw. githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https: //www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/ master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" objetivo ="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons /nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target=" _blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height ="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos /getpostman/getpostman-icon.svg" alt="cartero" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel ="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height= "40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo .svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" ancho="40" alto="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=miguellongart&show_icons=true&locale=en&layout=compact" alt="miguellongart" /> </p>
+
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=miguellongart&show_icons=true&locale=en" alt="miguellongart" /> </p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=miguellongart&" alt="miguellongart" /></p>
